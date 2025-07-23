@@ -1,0 +1,23 @@
+{
+  "name": "cursodegithub",
+  "version": "1.0.0",
+  "description": "texto texto texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-AT2/projeto-para-aula-ddv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-AT2/projeto-para-aula-ddv/issues"
+  },
+  "homepage": "https://github.com/Gabriel-AT2/projeto-para-aula-ddv#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
