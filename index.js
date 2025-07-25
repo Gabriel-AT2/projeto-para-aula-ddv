@@ -13,5 +13,8 @@ else
 
 function createProduct()
 {
-    return {name: "Carro"}
+    return {
+        name: "Carro",
+        preco: 50000
+    }
 }
