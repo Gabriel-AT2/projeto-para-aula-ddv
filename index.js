@@ -10,3 +10,8 @@ else
 {
     console.log(a);    
 }
+
+function createProduct()
+{
+    return {name: "Carro"}
+}
