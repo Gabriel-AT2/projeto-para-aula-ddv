@@ -1,5 +1,7 @@
 console.log("hello World");
 
+//sei lá
+
 const a = 5; 
 
 if (a > 6)
