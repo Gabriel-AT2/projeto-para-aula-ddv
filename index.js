@@ -4,11 +4,11 @@ const a = 5;
 
 if (a > 6)
 {
-    console.log("teste");
+    console.log("E maior que 6");
 }
 else
 {
-    console.log(a);    
+    console.log("É menor que 6");
 }
 
 function createProduct()
